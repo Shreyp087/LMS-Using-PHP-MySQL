@@ -71,14 +71,12 @@ Please follow the instructions below to get started with the LMS module:
 2. **Install Dependencies:**
    ```bash
    # You may need to install specific dependencies depending on your project.
-   # Provide clear instructions on how to install these dependencies.
    Xammp
    PHP
    ```
 
 3. **Run the Application:**
    ```bash
-   # Provide clear instructions on how to run the LMS module.
    Start the Apache, MySQL on XAMMP
    ```
 
