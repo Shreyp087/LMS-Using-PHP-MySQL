@@ -13,6 +13,10 @@ The development of a Learning Management System (LMS) module that caters to both
 
 The project aims to develop a Learning Management System (LMS) module that includes two primary end-users: Students and Admin. Each user type has distinct functionalities:
 
+## Video Tutorial
+
+Youtube link : https://youtu.be/-ReGkiLnmn0?feature=shared
+
 ### Admin Functionalities
 
 - **Manage Registered Users:**
