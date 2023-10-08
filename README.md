@@ -64,19 +64,22 @@ Please follow the instructions below to get started with the LMS module:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone [https://github.com/yourusername/your-repo.git](https://github.com/Shreyp087/LMS-Using-PHP-MySQL.git)
+   cd LMS-Using-PHP-MySQL
    ```
 
 2. **Install Dependencies:**
    ```bash
    # You may need to install specific dependencies depending on your project.
    # Provide clear instructions on how to install these dependencies.
+   Xammp
+   PHP
    ```
 
 3. **Run the Application:**
    ```bash
    # Provide clear instructions on how to run the LMS module.
+   Start the Apache, MySQL on XAMMP
    ```
 
 4. **Access the LMS:**
